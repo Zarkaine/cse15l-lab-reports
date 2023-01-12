@@ -16,6 +16,7 @@ It has six songs
 
 sorry thats *nine* songs not *six*. Reviews say
 > It is good
-
+> 
+`Inline code` with backticks	
 # code block
 print '3 backticks or'

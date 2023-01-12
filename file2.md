@@ -21,5 +21,5 @@ sorry thats *nine* songs not *six*. Reviews say
 > It is good
 
 # code block
-print '3 backticks or'
+print 3 backticks or
 `Inline code` with backticks	

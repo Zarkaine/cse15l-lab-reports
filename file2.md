@@ -2,6 +2,8 @@
 # This is the album **"The Works"** by **Queen* 
 
 ![Image](https://upload.wikimedia.org/wikipedia/en/3/39/Queen_The_Works.png)
+* Image source: https://en.wikipedia.org/wiki/The_Works_(Queen_album)
+
 
 It has six songs
 1. Radio ga ga
